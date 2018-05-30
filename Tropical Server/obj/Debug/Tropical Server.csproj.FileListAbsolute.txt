@@ -1,0 +1,86 @@
+D:\Itlize\Tropical Server\Tropical Server\bin\ApplicationInsights.config
+D:\Itlize\Tropical Server\Tropical Server\bin\Tropical Server.dll.config
+D:\Itlize\Tropical Server\Tropical Server\bin\Tropical Server.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Tropical Server.pdb
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csc.exe
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csc.exe.config
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csc.rsp
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csi.exe
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csi.exe.config
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\csi.rsp
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.AppContext.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Collections.Immutable.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Console.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Diagnostics.Process.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.IO.Compression.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.IO.FileSystem.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.IO.Pipes.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Reflection.Metadata.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.AccessControl.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Claims.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Threading.Thread.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.ValueTuple.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Xml.XPath.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\vbc.exe
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\vbc.exe.config
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\vbc.rsp
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\VBCSCompiler.exe
+D:\Itlize\Tropical Server\Tropical Server\bin\roslyn\VBCSCompiler.exe.config
+D:\Itlize\Tropical Server\Tropical Server\bin\Antlr3.Runtime.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\AspNet.ScriptManager.jQuery.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.DependencyCollector.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.Web.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.WindowsServer.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.ApplicationInsights.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.Web.Infrastructure.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Newtonsoft.Json.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\System.Web.Optimization.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\WebGrease.dll
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\System.Web.Optimization.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Antlr3.Runtime.pdb
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Newtonsoft.Json.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.ApplicationInsights.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.DependencyCollector.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.WindowsServer.xml
+D:\Itlize\Tropical Server\Tropical Server\bin\Microsoft.AI.Web.xml
+D:\Itlize\Tropical Server\Tropical Server\obj\Debug\Tropical Server.csprojResolveAssemblyReference.cache
+D:\Itlize\Tropical Server\Tropical Server\obj\Debug\Tropical Server.csproj.CoreCompileInputs.cache
+D:\Itlize\Tropical Server\Tropical Server\obj\Debug\Tropical Server.csproj.CopyComplete
+D:\Itlize\Tropical Server\Tropical Server\obj\Debug\Tropical Server.dll
+D:\Itlize\Tropical Server\Tropical Server\obj\Debug\Tropical Server.pdb
